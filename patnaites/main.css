@@ -1,0 +1,20 @@
+
+.middle{
+  background-image: url("https://images.unsplash.com/photo-1575252663512-b25714ec27f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
+  background-size: cover;
+  padding-top: 85px;
+
+}
+.about{
+  padding-top: 50px;
+}
+
+.title{
+  padding-left:  40px;
+  font-size: 40px;
+  color: grey;
+  text-decoration: none;
+}
+p{
+  color:black;
+}
